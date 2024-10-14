@@ -1,4 +1,3 @@
-# amazonClone
 # Amazon clone
 
 This is a simple clone of the Amazon website created using HTML and CSS. The project showcases my ability to replicate a well-known interface while focusing on responsive design and clean coding practices.
